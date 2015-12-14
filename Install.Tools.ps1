@@ -1,9 +1,20 @@
-cinst -y chrome
-cinst -y githubforwindows
+cinst -y googlechrome
+cinst -y github
 cinst -y node.js
 cinst -y notepadplusplus
-cinst -y 7zip
-cinst -y visualstudio2013ultimate  -InstallArguments "/Features:'Blend LightSwitch VCMFCLibraries OfficeDeveloperTools SQL WebTools Win8SDK SilverLightDeveloperKit WindowsPhone80'"
-cinst -y mssqlserver2014express
-cinst -y mssqlservermanagementstudio2014express
+cinst -y 7zip.install
+cinst -y f.lux
+cinst -y paint.net
 cinst -y sublimetext3
+cinst -y firefox
+cinst -y fiddler
+cinst -y fiddler4
+cinst -y filezilla
+cinst -y foxitreader
+cinst -y cutepdf
+cinst -y nodejs.install
+cinst -y procmon
+cinst -y pstools
+cinst -y sysinternals
+cinst -y vlc
+cinst -y spideroak
